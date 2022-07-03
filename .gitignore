@@ -1,0 +1,6 @@
+*.pem
+*secrets
+*.terraform
+*webapp-infra-aws/secrets*
+*webapp-infra-gcp/secrets*
+
